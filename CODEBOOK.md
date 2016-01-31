@@ -1,6 +1,7 @@
 The first two variables in the resulting tidy data are:
 
 1                           subject.id
+
 2                          activity.id
 
 Subject.id represents the subject number, 1-30
@@ -8,10 +9,15 @@ activity.id represents the activity the subject was performing at the time of me
 
           activities
 1            WALKING
+
 2   WALKING.UPSTAIRS
+
 3 WALKING.DOWNSTAIRS
+
 4            SITTING
+
 5           STANDING
+
 6             LAYING
 
 
