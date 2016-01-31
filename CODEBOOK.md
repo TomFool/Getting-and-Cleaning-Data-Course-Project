@@ -52,18 +52,18 @@ fBodyGyroJerkMag
 ```
 
 The set of variables that were estimated from these signals are: 
-
+```
 mean: Mean value
 std: Standard deviation
-
+```
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
-
+```
 gravityMean
 tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
-
+```
 For Units please use the following guide:
 
 Variables labeled with "Acc" (for Acceleration) are the body acceleration signal obtained by subtracting the gravity from the total acceleration. Gravity is in standard gravity units 'g'.
