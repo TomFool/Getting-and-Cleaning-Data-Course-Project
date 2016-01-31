@@ -1,9 +1,11 @@
 ==================================================================
 Assignment: Getting and Cleaning Data Course Project
+
 Version 1.0
 
 ==================================================================
 Tom Foolery (anonymized)
+
 https://github.com/TomFool/
 
 ==================================================================
@@ -45,7 +47,7 @@ The script then applies tidy labels to the 3 sets of data.  Features, as modifie
 
 The script then creates a unified data set ("all.data") arranged:
 
-       1   2    3    4    5    ...
+             1   2    3    4    5    ...
        "subject" "y" "X1" "X2" "X3" "X..."
 
 
