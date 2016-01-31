@@ -22,8 +22,10 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-Last Accessed: 1/29/2016 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Last Accessed: 1/29/2016
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+==================================================================
 
 This script attempts to turn the raw data from the above's ./train and ./test into 2 unifed and tidy data sets.  It then outputs two .csv files containing the sets.
 
