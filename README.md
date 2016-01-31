@@ -23,6 +23,7 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 
 Last Accessed: 1/29/2016
+
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ==================================================================
