@@ -1,25 +1,21 @@
 The first two variables in the resulting tidy data are:
-
+```
 1                           subject.id
-
 2                          activity.id
+```
 
 Subject.id represents the subject number, 1-30
 activity.id represents the activity the subject was performing at the time of measurements (below).  Possible activies are below:
 
+```
           activities
 1            WALKING
-
 2   WALKING.UPSTAIRS
-
 3 WALKING.DOWNSTAIRS
-
 4            SITTING
-
 5           STANDING
-
 6             LAYING
-
+```
 
 All further variables are measurements based on the feature documentation below.
 
@@ -35,7 +31,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-
+```
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
@@ -53,6 +49,7 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
+```
 
 The set of variables that were estimated from these signals are: 
 
@@ -75,7 +72,7 @@ Variables labeled with "Gyro" (for Gyroscope) are the angular velocity vector me
 The complete list of variables of each feature vector is available below:
 
 
-
+```
 3                      tBodyAcc.mean.X
 4                      tBodyAcc.mean.Y
 5                      tBodyAcc.mean.Z
@@ -162,3 +159,4 @@ The complete list of variables of each feature vector is available below:
 86                 angle.X.gravityMean
 87                 angle.Y.gravityMean
 88                 angle.Z.gravityMean
+```
