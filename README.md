@@ -1,9 +1,11 @@
 ==================================================================
 Assignment: Getting and Cleaning Data Course Project
 Version 1.0
+
 ==================================================================
 Tom Foolery (anonymized)
 https://github.com/TomFool/
+
 ==================================================================
 
 This analysis file takes in data produced by the Human Activity Recognition Using Smartphones Dataset.  Information about obtaining this data set is below:
@@ -44,7 +46,7 @@ The script then applies tidy labels to the 3 sets of data.  Features, as modifie
 The script then creates a unified data set ("all.data") arranged:
 
        1   2    3    4    5    ...
-"subject" "y" "X1" "X2" "X3" "X..."
+       "subject" "y" "X1" "X2" "X3" "X..."
 
 
 The script then creates a new set containing only the identifiers (subject.id and activity.id) and variables contaning average or standard deviation data ("mean" or "std").  This is stored as sub.data.
